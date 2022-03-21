@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+section div{
+    margin-bottom: 1rem;
+}
+
+section{
+    border-bottom: 1px solid #ddd;
+}
+
+pre{
+    background-color: #eee;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    width: 100%;
+    white-space: pre-wrap;
+  }
